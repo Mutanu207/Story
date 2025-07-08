@@ -1,1 +1,3 @@
-wow i got the command correctly
+with git branch lets say i have a app that has diffrent form of protection,ther is password,pattern and fingerprint
+but i want to add facial recoginition as one of them,but i dont want to do it in my main code so i create a branch to add that feature to my code to see how it will,so
+just incase it doesnt work it wont break my main code
